@@ -2,10 +2,10 @@
 export const siteConfig = {
   name: "Ade Cakes Haven",
   tagline: "Where Sweetness Finds A Home",
-  phone: "07039976059",
-  phoneIntl: "+2347039976059",
-  whatsapp: "09123510853",
-  whatsappIntl: "2349123510853",
+  phone: "09123510853",
+  phoneIntl: "+2349123510853",
+  whatsapp: "07039976059",
+  whatsappIntl: "2347039976059",
   whatsappMessage:
     "Hello Ade Cakes Haven! I'd like to make an order. Please can you help me with the available options?",
   email: "hello@adecakeshaven.com",
