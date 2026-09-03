@@ -2,7 +2,7 @@ import Reveal from "./Reveal";
 
 const galleryImages = [
   { src: "/images/cake-pink-ruffle.jpg", alt: "Pink ruffle crown birthday cake", tall: true },
-  { src: "/images/cake-hearts-gold.jpg", alt: "Gold trim hearts celebration cake", tall: false },
+  { src: "/images/gallery-extra-5.jpg", alt: "Gold trim hearts celebration cake", tall: false },
   { src: "/images/gallery-extra-1.jpg", alt: "Slice of pink layered cake", tall: false },
   { src: "/images/cake-custom-floral.jpg", alt: "Custom floral tier cake", tall: true },
   { src: "/images/gallery-extra-2.jpg", alt: "Birthday celebration table with cake", tall: false },
