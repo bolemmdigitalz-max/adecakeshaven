@@ -40,7 +40,7 @@ export default function Logo({ className, light = false }: LogoProps) {
         )}
       >
         <span className="h-px w-4 bg-current opacity-70" />
-        CAKES HAVEN
+        CAKES & MORE
         <span className="h-px w-4 bg-current opacity-70" />
       </span>
     </div>
