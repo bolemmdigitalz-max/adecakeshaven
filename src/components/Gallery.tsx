@@ -6,6 +6,8 @@ const galleryImages = [
   { src: "/images/gallery-extra-1.jpg", alt: "Slice of pink layered cake", tall: false },
   { src: "/images/cake-custom-floral.jpg", alt: "Custom floral tier cake", tall: true },
   { src: "/images/gallery-extra-2.jpg", alt: "Birthday celebration table with cake", tall: false },
+  { src: "/images/gallery-extra-3.jpg", alt: "Birthday celebration table with cake", tall: false },
+  { src: "/images/gallery-extra-4.jpg", alt: "Birthday celebration table with cake", tall: false },
   { src: "/images/cake-birthday-1.jpg", alt: "Chocolate cake with red ribbon", tall: false },
 ];
 
@@ -16,9 +18,7 @@ export default function Gallery() {
         <Reveal className="mx-auto max-w-xl text-center">
           <span className="font-script text-3xl text-coral">sweet moments</span>
           <h2 className="mt-1 font-display text-3xl font-bold text-brown sm:text-4xl">Our Gallery</h2>
-          <p className="mt-3 text-sm text-dark/70 sm:text-base">
-            A look at some of our creations. More real photos coming soon — this space grows with every order!
-          </p>
+
         </Reveal>
 
         <div className="mt-12 columns-2 gap-4 sm:columns-3 sm:gap-5 [&>*]:mb-4 sm:[&>*]:mb-5">
