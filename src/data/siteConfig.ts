@@ -1,13 +1,13 @@
 // Central place for business info so it's easy to update.
 export const siteConfig = {
-  name: "Ade Cakes Haven",
+  name: "Ade Cakes & More",
   tagline: "Where Sweetness Finds A Home",
   phone: "09123510853",
   phoneIntl: "+2349123510853",
   whatsapp: "07039976059",
   whatsappIntl: "2347039976059",
   whatsappMessage:
-    "Hello Ade Cakes Haven! I'd like to make an order. Please can you help me with the available options?",
+    "Hello Ade Cakes & More! I'd like to make an order. Please can you help me with the available options?",
   email: "hello@adecakeshaven.com",
   address: "Lagos, Nigeria",
   social: {
