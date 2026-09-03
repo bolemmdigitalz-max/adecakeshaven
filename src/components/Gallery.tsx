@@ -41,7 +41,7 @@ export default function Gallery() {
         </div>
 
         <Reveal className="mt-8 text-center text-xs text-dark/50" delay={200}>
-          * Gallery images are placeholders for demonstration — replace with real product photography anytime.
+
         </Reveal>
       </div>
     </section>
